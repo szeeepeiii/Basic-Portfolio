@@ -1,0 +1,11 @@
+li {display: inline;}
+
+.div2{background-color:lightseagreen;
+    color: white;
+    display: block;
+    padding: 2% 2% 2% 2%;
+    margin-right: 50px;
+    float: left;}}
+
+    .form{display: block;
+    }
