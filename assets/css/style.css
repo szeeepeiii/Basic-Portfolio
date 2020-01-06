@@ -29,7 +29,7 @@ float:left;}
         padding: 10px;
         border: 1px solid gray;
         margin-right: 15%;
-        margin-top: 8%;
+        margin-top: 3%;
       background-image: url("../images/criss-cross.png");}
 
   
@@ -144,11 +144,9 @@ position: absolute;}
     padding-left: 25%;
     z-index: -4;}  */
 
-    .project{background-color: teal;
+    .project{background-color: teal;}
 
-
-.hangman{background-image: url(../images/105992231-1561667465295gettyimages-521697453.jpeg);
-position: relative;}
+.rpg{background-image: url(../images/105992231-1561667465295gettyimages-521697453.jpeg);}
  
 
 
